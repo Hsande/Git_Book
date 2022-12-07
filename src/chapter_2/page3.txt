@@ -1,3 +1,5 @@
 coming from our teammate
 they commit and push that remote repository
 and I bring it o my local repository
+
+This is about fetch, update and pull
